@@ -212,6 +212,4 @@ https://developers.hepsiburada.com/hepsiburada/reference/uploadticketviafile
 	}
 }
 
-$hepsiburada = new Hepsiburada("username", "password", "merchantId");
-
 ?>
