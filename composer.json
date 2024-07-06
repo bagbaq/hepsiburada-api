@@ -1,0 +1,21 @@
+{
+    "name": "bagbaq/hepsiburada-api",
+    "description": "Hepsiburada API yardımcı kütüphane",
+    "type": "library",
+    "version": "1.0.3",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bagbaq",
+            "email": "info@baqnet.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Hepsiburada\\": "src/"
+      }
+    },
+    "require": {
+      "php": ">=7.4"
+    }
+}
